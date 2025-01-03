@@ -10,7 +10,6 @@
 🎓 **PROGRAMMER** with a passion for **Python**.  
 🌌 Astrophotographer.  
 🌱 Currently learning **Python**.  
-✨ No collabs
 
 ---
 
