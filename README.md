@@ -15,7 +15,7 @@
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, JavaScript, CSS, HTML.
-- **Frameworks & Tools:** React, Django, Node.js.
+- **Frameworks & Tools:** Matplotlib, Tkinter, Django, Node.js.
 
 ---
 
