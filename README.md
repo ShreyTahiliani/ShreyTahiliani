@@ -21,12 +21,12 @@
 ---
 
 ## 🌐 Connect with Me
-[![Youtube](https://img.shields.io/badge/LinkedIn-Connect-blue)](https:/youtube.com/@shrey_tahil)  
-[![X](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/shreytahiliani)  
+[![Youtube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https:/youtube.com/@shrey_tahil)  
+[![X](https://img.shields.io/badge/X-Follow-blue?logo=twitter&logoColor=white)](https://x.com/shreytahiliani)  
 
 ---
 
-⭐️ **Fun Fact:**SUB 20 Rubik's Cube! 
+⭐️ **Fun Fact:** SUB 20 Rubik's Cube! 
 ⭐️ **Goal for 2025:** Being BETTER!
 
 ---
